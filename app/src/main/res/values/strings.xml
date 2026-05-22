@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mahila Shakti Unnati</string>
+    <string name="app_name_kannada">ಮಹಿಳಾ ಶಕ್ತಿ ಉನ್ನತಿ</string>
+    <string name="tagline">SHG Digital Ledger</string>
+    <!-- Savings -->
+    <string name="paid">ಪಾವತಿ (Paid)</string>
+    <string name="pending">ಬಾಕಿ (Pending)</string>
+    <!-- Loans -->
+    <string name="given">ನೀಡಿದ (Given)</string>
+    <string name="received">ಸ್ವೀಕರಿಸಿದ (Received)</string>
+    <!-- Actions -->
+    <string name="add_member">Member ಸೇರಿಸಿ</string>
+    <string name="issue_loan">Loan ನೀಡಿ</string>
+    <string name="record_payment">ಪಾವತಿ ದಾಖಲಿಸಿ</string>
+    <string name="generate_report">Report ತಯಾರಿಸಿ</string>
+    <string name="share_whatsapp">WhatsApp ನಲ್ಲಿ Share ಮಾಡಿ</string>
+</resources>
